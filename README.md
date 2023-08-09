@@ -1,4 +1,5 @@
-# INM706-Twitter_Sentiment_Analysis
+# INM706 - Deep Learning for Sequence Analysis
+## "Twitter Sentiment Analysis"
 
 Sentiment analysis (SA) is a procedure that uses Deep Learning techniques to extract emotions, perspectives, and opinions from tweets, status, and other mediums. Sentiment analysis involves categorising textual opinions into two categories such as "positive" or "negative".
 
